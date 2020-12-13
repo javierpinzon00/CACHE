@@ -1,4 +1,4 @@
 # CACHE
 # Integrantes del grupo
-*JAVIER PINZON DIAZ
-*HUGO ROMAN
+* JAVIER PINZON DIAZ
+* HUGO ROMAN
